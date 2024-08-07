@@ -1,0 +1,10 @@
+
+.hintrc
+*.png
+*.jpeg
+*.pdf
+.vscode/settings.json
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/

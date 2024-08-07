@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "kwn/number-to-words": "^2.6"
+    }
+}

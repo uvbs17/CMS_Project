@@ -1,0 +1,22 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "description": "Welcome to the College Management System (CMS) project! This project is designed to provide an efficient and user-friendly system for managing college operations. The CMS will allow users to easily manage student records, course information, faculty data, and more.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanmay-gandhi1/CMS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanmay-gandhi1/CMS/issues"
+  },
+  "homepage": "https://github.com/Tanmay-gandhi1/CMS#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.7.0"
+  }
+}
